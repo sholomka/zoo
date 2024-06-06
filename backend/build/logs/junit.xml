@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="/var/www/symfony_new/backend/phpunit.xml.dist" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.003775">
+    <testsuite name="Application Test Suite" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.003775">
+      <testsuite name="App\Tests\Carrier\DeliveryCostCalculatorTest" file="/var/www/symfony_new/backend/tests/Carrier/DeliveryCostCalculatorTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.003775">
+        <testcase name="testCalculateWithTransCompanyUnder10Kg" file="/var/www/symfony_new/backend/tests/Carrier/DeliveryCostCalculatorTest.php" line="20" class="App\Tests\Carrier\DeliveryCostCalculatorTest" classname="App.Tests.Carrier.DeliveryCostCalculatorTest" assertions="1" time="0.003775"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
