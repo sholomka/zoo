@@ -17,6 +17,7 @@
 
 ```bash
 git clone https://github.com/sholomka/zoo.git
+cd zoo
 ```
 
 ### Запуск проекта
@@ -27,6 +28,8 @@ git clone https://github.com/sholomka/zoo.git
 docker-compose up --build
 ```
 
+Подождать пока сбилдится frontend контейнер!
+
 ## Доступ к приложению
 После успешного запуска контейнеров, откройте ваш веб-браузер и перейдите по адресу:
 
@@ -35,7 +38,6 @@ http://localhost
 ```
 
 На этом адресе будет доступно ваше веб-приложение.
-
 
 ## Структура проекта
 
